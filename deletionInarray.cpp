@@ -53,5 +53,5 @@ int main(){
 
     a1.deleteElement(pos);
     a1.displayArray();
-
+    return 0;
 }
